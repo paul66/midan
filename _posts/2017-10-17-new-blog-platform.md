@@ -22,26 +22,26 @@ Jekyll is free to use but you still need to host your site somewhere. The good n
 
 ## Why move from the simple Ghost(Pro) environment to the more complex Jekyll?
 
-I originally chose the Ghost platform for it's elegance and simplicity. I was happy to pay a nominal $5/month subscription to avoid hosting costs and the time it would take to administer my own website. So I signed up and started blogging.
+I originally chose the Ghost platform for its elegance and simplicity. I was happy to pay a nominal $5/month subscription to avoid hosting costs and the time it would take to administer my own website. So I signed up and started blogging.
 
 I soon realised that whilst I enjoyed the writing process, I was never going to be a prolific blogger. In my first couple of years I was actually quite inconsistent. I had months of posting 3 or 4 times, but then could go months without posting anything. All the time paying Ghost my $5/month.
 
-Then in 2016, having established a good name and solid customer base, Ghost unsurprisingly increased the cost of the cheapest Ghost(Pro) plan. It went up from $5/month billed monthly to $19/month billed annually or a whopping $29/month billed monthly. However, I liked Ghost so stuck with it, opting to pay annually. Then recently Ghost made an announcement that suggested that their future focus is likely to be journalism and news publications and the likely revenues that will flow from large corporate clients using their platform. 
+Then in 2016, having established a good name and solid customer base, Ghost unsurprisingly increased the cost of the cheapest Ghost(Pro) plan. It went up from $5/month billed monthly to $19/month billed annually or a whopping $29/month billed monthly. However, I liked Ghost so stuck with it, opting to pay annually. Then recently Ghost made an announcement that suggested that their future focus is likely to be journalism and news publications and the likely revenues that will flow from large corporate clients using their platform.
 
-So now my blog is costing me $228 a year. If I generously assume I will have created 10 posts this year, that's a ridiulous cost per post, given there are plenty of free alternatives out there.
+So now my blog is now costing me $228 a year rather than $60. Given my rate of output, that's a crazy cost per post, especially considering there are plenty of free alternatives. It also got me thinking about the difficulty in moving blog platform when all the content (text and images) are saved on a 3rd party's servers and only accessible while I continued to subscribe.
 
-It also got me thinking about the difficulty in moving blog platform when all the content (text and images) are saved on a 3rd party's servers and only accessible while I continued to subscribe. And my subscription is coming up in December.
+So with my Ghost subscription renewal coming up in December I decided it was time to find an alternative.
 
 The conclusion I came to was that:
 
 1. I would rather manage my own blog site than pay over $200/year
 2. I wanted my content saved locally (and backed up in the cloud) to avoid future migration issues
-3. I wanted to continue to wrote in markdown
+3. I wanted to continue to write content in markdown
 4. I wanted to avoid a database driven solution if possible
 
-I had come across Jekyll in my job as a web developer and understood how it worked. I'm familiar with using the command line and have also used Git for version control of source code. So the technical barrier to entry was fortunately not so great for me. I was attracted to the idea of having control of my own site and a system that re-generated the site whenever new content was added. And most importantly it was free and ran on my local machine.
+I had seen Jekyll (in my job as a web developer) and understood how it worked. I'm familiar with using the command line and have used Git version control. So the technical barrier to entry was fortunately not so great for me. I was attracted to the idea of having control of my own site and a system that re-generated the site whenever new content was added. And most importantly it was free and ran on my local machine.
 
-The last piece of the puzzle was hosting. I didn't want to use a web host (more cost) and so was very happy to read that Github was tightly integrated with Jekyll and provided free hosting through their Github Pages platform. It was a no-brainer really: free source control and publishing rolled into one - yes please!
+The last piece of the puzzle was hosting. I didn't want to use a web host (more cost) and so was very happy to read that Github was tightly integrated with Jekyll and provided free hosting through their Github Pages platform. It was a no-brainer really: free source control and publishing rolled into one - count me in!
 
 ## What's in a theme?
 
