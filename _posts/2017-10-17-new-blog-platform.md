@@ -4,7 +4,7 @@ title: Migrating my blog platform
 featured: false
 author: paul
 tags: []
-image: '/images/posts/2017/10/jekyll-logo.png'
+image: '/images/posts/2017/10/jekyll-ghost-logo.png'
 comments: false
 ---
 
