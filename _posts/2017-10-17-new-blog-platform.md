@@ -1,22 +1,27 @@
 ---
 layout: post
-title: Migrating from Ghost to Jekyll 
+title: Migrating my blog platform 
 featured: false
 author: paul
 tags: []
-image: '/images/posts/2017/10/cover.jpg'
-comments: true
+image: '/images/posts/2017/10/jekyll-logo.png'
+comments: false
 ---
 
-## What on earth are Ghost and Jekyll?
+Up until now I have hosted my blog on the Ghost platform. I paid a monthly subscription (billed annually) to use their service to avoid having to install and manage a blog platform myself. Ghost is a joy to use but the cost occurs whether I publish 100 posts a year or zero posts, so it's clearly easier to justify if I'm posting regularly. But I don't publish content regularly and with my subscription renewal coming up in December, I decided it's time to take the plunge and move my blog to a cheaper platform. Enter Jekyll!
 
-[Ghost](https://ghost.org) is an online publishing platform. You have the choice to download the Ghost platform and install it on your own server for free or you can subscribe to a Ghost(Pro) account and have your blog hosted by Ghost (in the same way you can host your own Wordpress site or create an account at Wordpress.com).
 
-If you self-host, you will have to manage the server environment, install and configure Ghost and install updates as new versions are released. With a Ghost(Pro) account you are paying to have all that taken care of by someone else.
+## What are Ghost and Jekyll?
+
+[Ghost](https://ghost.org) is an open-source online publishing platform. You have the choice to download the Ghost platform and install it on your own server for free or you can subscribe to a Ghost(Pro) account and have your blog hosted by Ghost (in the same way you can host your own Wordpress site or create an account at Wordpress.com).
+
+If you self-host, you will have to manage the server environment, install and configure the Ghost server application and install updates as new versions are released. With a Ghost(Pro) account you are paying to have all that taken care of by someone else.
 
 [Jekyll](https://jekyllrb.com/) on the other hand is a static site generator. It transforms plain text (markdown) files into static websites and blogs. It doesn't require a database and supports permalinks, categories, pages, posts and custom layouts, which makes it ideal for generating blog sites.
 
 The drawback is that you run it from the command line (which is a big barrier to entry for some) and there is more set up and configuration than is required with a hosted solution. However, if you are comfortable with all that, once set up it is pretty simple to publish new content.
+
+So if Ghost(Pro) is analogous to hailing an Uber, Jekyll would be like building your own kit car.
 
 Jekyll is free to use but you still need to host your site somewhere. The good news is that it has very tight integration with [Github Pages](https://pages.github.com) so not only can you can benefit from Git version control but also automatic hosting on Github Pages...assuming you are comfortable working in a technical development environment.
 
