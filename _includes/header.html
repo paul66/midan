@@ -1,0 +1,31 @@
+<header class="site-header">
+
+  <div class="row">
+
+    <div class="column small-8 medium-3 large-3">
+      <h1 class="logo"><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+    </div>
+
+    <label class="off-canvas-toggle"><span data-icon="ei-navicon" data-size="s"></span></label>
+
+    <div class="off-canvas-content">
+      <div class="column medium-9 large-9">
+        <nav class="site-header__navigation navigation">
+          <ul class="list-bare">
+            {% for page in site.pages %}
+              {% unless page.name == '404.md' %}
+                {% if page.title %}
+                  <li>
+                    <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+                  </li>
+                {% endif %}
+              {% endunless %}
+            {% endfor %}
+          </ul>
+        </nav>
+      </div>
+    </div>
+
+  </div>
+
+</header>
