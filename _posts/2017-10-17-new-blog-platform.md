@@ -10,9 +10,15 @@ comments: true
 
 ## What on earth are Ghost and Jekyll?
 
-[Ghost](https://ghost.org) is an online publishing platform. You have the choice to download the Ghost platform and install it on your own server for free or you can subscribe to a Ghost(Pro) account and have your blog hosted by Ghost (in the same way you can host your own Wordpress site or create an account at Wordpress.com). If you self-host, then you will have to manage the server environment, install and configure Ghost and install updates as the Ghost developers release newer versions. With a Ghost(Pro) account you are paying to have all that taken care of for you.
+[Ghost](https://ghost.org) is an online publishing platform. You have the choice to download the Ghost platform and install it on your own server for free or you can subscribe to a Ghost(Pro) account and have your blog hosted by Ghost (in the same way you can host your own Wordpress site or create an account at Wordpress.com).
 
-[Jekyll](https://jekyllrb.com/) on the other hand is a static site generator. It transforms plain text (markdown) files into static websites and blogs. It doesn't require a database and supports permalinks, categories, pages, posts and custom layouts so is ideal for generating blog sites. The only drawback is that you run it from the command line and there is a bit more setup and configuration than is needed with Ghost. However, if you are comfortable with all that, once set up, it is simple to publish new posts. Jekyll itself is free to download and use but you will still need to host your site. Fortunately, it has very tight integration with [Github Pages](https://pages.github.com) so you can benefit from Git version control for your code and free hosting on Github Pages if you are comfortable in that technical environment.
+If you self-host, you will have to manage the server environment, install and configure Ghost and install updates as new versions are released. With a Ghost(Pro) account you are paying to have all that taken care of by someone else.
+
+[Jekyll](https://jekyllrb.com/) on the other hand is a static site generator. It transforms plain text (markdown) files into static websites and blogs. It doesn't require a database and supports permalinks, categories, pages, posts and custom layouts, which makes it ideal for generating blog sites.
+
+The drawback is that you run it from the command line (which is a big barrier to entry for some) and there is more set up and configuration than is required with a hosted solution. However, if you are comfortable with all that, once set up it is pretty simple to publish new content.
+
+Jekyll is free to use but you still need to host your site somewhere. The good news is that it has very tight integration with [Github Pages](https://pages.github.com) so not only can you can benefit from Git version control but also automatic hosting on Github Pages...assuming you are comfortable working in a technical development environment.
 
 ## Why move from the simple Ghost(Pro) environment to the more complex Jekyll?
 
