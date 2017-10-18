@@ -2,6 +2,7 @@
 layout: page
 title: About
 image: '/images/pages/about.jpg'
+comments: false
 ---
 
 I started playing drums at school around age 11. I progressed from tapping out rhythms on a snare drum to help prepare for piano grade exams to spending all my breaks in a music practice room teaching myself how to play school's 4 piece Premier Olympic kit (and that will give some of you an idea of how long ago that was).
