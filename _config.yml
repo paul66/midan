@@ -6,13 +6,13 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:            Midan
+title:            The Rhythm of Life
 email:            your-email@domain.com
-description:      Clean and Fast Jekyll Blog Theme
-baseurl:          '' # The subpath of your site, e.g. /blog
-url:              'http://midan-jekyll.aspirethemes.com' # The base hostname & protocol for your site
-github_username:  aspirethemes
-twitter_username: aspirethemes
+description:      This blog charts my adventures playing and recording drums in my garden studio.
+baseurl:          '/midan' # The subpath of your site, e.g. /blog
+url:              'http://therhythmof.life' # The base hostname & protocol for your site
+github_username:  paul66
+twitter_username: paul66
 
 markdown:  kramdown
 permalink: pretty
@@ -46,11 +46,11 @@ defaults:
 
 # Authors
 authors:
-  ahmad:
-    name:             Ahmad Ajmi
-    bio:              Author & developer of Aspire Themes. Minimalist. I love creating clean and minimal websites.Technical writer at SitePoint.
+  paul:
+    name:             Paul Austin
+    bio:              I practice, play and record drums in my garden studion.
     gravatar:         https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
-    email:            info@aspirethemes.com
-    website:          http://aspirethemes.com
-    github_username:  ahmadajmi
-    twitter_username: ahmadajmi
+    email:            
+    website:          http://therhythmof.life
+    github_username:  paul66
+    twitter_username: paul66
