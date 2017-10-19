@@ -4,7 +4,7 @@ title: New Series On My Garden Studio
 featured: false
 author: paul
 tags: [studio, gear]
-image: '/images/posts/2017/10/cover-series-garden-studio.jpg'
+image: '/images/posts/2017/10/cover_new_series_on_my_garden_studio.jpg'
 comments: false
 ---
 

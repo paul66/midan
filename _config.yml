@@ -9,7 +9,7 @@
 title:            The Rhythm of Life
 email:            your-email@domain.com
 description:      This blog charts my adventures playing and recording drums in my garden studio.
-baseurl:          '/midan' # The subpath of your site, e.g. /blog
+baseurl:          '' # The subpath of your site, e.g. /blog
 url:              'http://therhythmof.life' # The base hostname & protocol for your site
 github_username:  paul66
 twitter_username: paul66
@@ -20,7 +20,7 @@ paginate:  12
 sass:
   style: compressed
 
-gems:
+plugins:
   - jekyll-paginate
   - jekyll/tagging
 

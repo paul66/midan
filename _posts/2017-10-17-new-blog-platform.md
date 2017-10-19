@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Migrating my blog platform 
+title: Migrating My Blog Platform 
 featured: false
 author: paul
 tags: []
-image: '/images/posts/2017/10/jekyll-ghost-logo.png'
+image: '/images/posts/2017/10/cover_migrating_my_blog_platform.png'
 comments: false
 ---
 
