@@ -1,4 +1,5 @@
 _site/
 .sass-cache/
 .jekyll-metadata
-.afdesign # Affinity Designer files
+
+*.afdesign # Affinity Designer files
